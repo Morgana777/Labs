@@ -1,0 +1,3 @@
+﻿  m.cpp
+m.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  table.vcxproj -> H:\table\table\Debug\table.exe
